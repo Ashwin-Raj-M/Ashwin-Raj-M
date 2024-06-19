@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Ashwin-Raj-M
-- 👀 I’m interested in ... Mechanical Designing
-- 🌱 I’m currently learning ... Web development
-- 💞️ I’m looking to collaborate on ... Designing
-- 📫 How to reach me ... through mail
-
-<!---
-Ashwin-Raj-M/Ashwin-Raj-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring software developer with a strong foundation in C++, Java, and Python, I have a keen interest in softwere developement, IoT, and embedded programming. My projects, including a live blood bank management system and various innovative energy solutions, reflect my passion for leveraging technology to solve real-world problems. I'm enthusiastic about contributing to impactful projects and collaborating with dynamic teams.
