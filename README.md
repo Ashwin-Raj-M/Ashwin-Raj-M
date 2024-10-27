@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/ashwinrajmarimuthu"><img src="https://api.daily.dev/devcards/v2/QbHrntElr8oqZOq8RaIlH.png?r=wrt&type=wide" width="652" alt="Ashwin Raj's Dev Card"/></a>
 # Ashwin Raj Marimuthu 😎
 Aspiring software developer with a strong foundation in C++, Java, and Python, I have a keen interest in softwere developement, IoT, and embedded programming. My projects, including a live blood bank management system and various innovative energy solutions, reflect my passion for leveraging technology to solve real-world problems. I'm enthusiastic about contributing to impactful projects and collaborating with dynamic teams.<br><br>
 <!-- Git Status -->
